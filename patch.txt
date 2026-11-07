@@ -1,0 +1,7 @@
+whats new
+payment gateway
+payment gateway catatan edit
+catatan order di alur kas
+
+bug 
+alur blacklist sesudah payment gateway
